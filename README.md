@@ -65,7 +65,7 @@ If you cannot identify the ticket by the token, make your program respond with a
 
 	{
 		"current_income": 0,
-		"number_of_available_seats": 81,
+		"number_of_available_seats": 81, 
 		"number_of_purchased_tickets": 0
 	}
 
